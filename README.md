@@ -16,21 +16,16 @@ What is our total cost and gross profit?
 
 Which categories and products generate the most revenue?
 
-Which territories perform best?
-
-Who are our most valuable customers?
-
 What is the sales trend over time?
 
 What is our gross margin?
 
+Which products or territories have higher return rates?
+
+How can AI help identify important business drivers?
 
 
 <img width="1321" height="740" alt="Screenshot 2026-10-05 111504" src="https://github.com/user-attachments/assets/4de1f3dc-8622-407a-8c49-2fd74b040fbc" />
 
 
-Which products or territories have higher return rates?
 
-How does the current period compare with the previous year?
-
-How can AI help identify important business drivers?
