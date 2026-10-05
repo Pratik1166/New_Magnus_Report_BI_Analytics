@@ -24,6 +24,11 @@ What is the sales trend over time?
 
 What is our gross margin?
 
+
+
+<img width="1321" height="740" alt="Screenshot 2026-10-05 111504" src="https://github.com/user-attachments/assets/4de1f3dc-8622-407a-8c49-2fd74b040fbc" />
+
+
 Which products or territories have higher return rates?
 
 How does the current period compare with the previous year?
